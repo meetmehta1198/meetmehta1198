@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Meet Mehta 👨‍💻</h1>
-<h4 align="center">Passionate problem solver and code craftsman 🚀. Transforming caffeine into code and ideas into software. 💻 Enthusiast of clean and efficient solutions. On a mission to turn complex challenges into elegant solutions through the art of coding. Open-source advocate and perpetual learner. When not in front of the screen, you'll find me exploring the intersection of technology and creativity. Let's push the boundaries of what's possible together! 🌐✨"</h4>
+<h4 align="center">Passionate software engineer crafting digital experiences with code. From Python backends to React frontends, I thrive on challenges and love exploring new tech realms. Let's code something amazing together!💻 Enthusiast of clean and efficient solutions. On a mission to turn complex challenges into elegant solutions through the art of coding. Open-source advocate and perpetual learner. When not in front of the screen, you'll find me exploring the intersection of technology and creativity. 
+  
+  
+  Let's push the boundaries of what's possible together! 🌐✨"</h4>
 
 <p align="left"> <a href="https://twitter.com/meetdmehta" target="blank"><img src="https://img.shields.io/twitter/follow/meetdmehta?logo=twitter&style=for-the-badge" alt="meetdmehta" /></a> </p>
 
