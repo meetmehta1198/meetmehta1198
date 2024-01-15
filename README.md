@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **meetmehta1198/meetmehta1198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Meet Mehta</h1>
-<h3 align="center">passionate software artisan on a perpetual journey through the realms of code. My days are fueled by a blend of coffee, creativity, and an insatiable curiosity for building things that matter.</h3>
+<h1 align="center">Hi 👋, I'm Meet Mehta 👨‍💻</h1>
+<h4 align="center">Passionate problem solver and code craftsman 🚀. Transforming caffeine into code and ideas into software. 💻 Enthusiast of clean and efficient solutions. On a mission to turn complex challenges into elegant solutions through the art of coding. Open-source advocate and perpetual learner. When not in front of the screen, you'll find me exploring the intersection of technology and creativity. Let's push the boundaries of what's possible together! 🌐✨"</h4>
 
 <p align="left"> <a href="https://twitter.com/meetdmehta" target="blank"><img src="https://img.shields.io/twitter/follow/meetdmehta?logo=twitter&style=for-the-badge" alt="meetdmehta" /></a> </p>
 
