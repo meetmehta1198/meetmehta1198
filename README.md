@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying MemQ: Unraveling the Architecture of a High-Performance PubSub System](https://medium.com/@meetmehta1198/demystifying-memq-unraveling-the-architecture-of-a-high-performance-pubsub-system-5caf119455f3?source=rss-d565601f6bf8------2)
+- [Unlocking the Secrets of Successful Technology Migrations: Lessons from Netflix](https://medium.com/@meetmehta1198/unlocking-the-secrets-of-successful-technology-migrations-lessons-from-netflix-8b92ed7e9ad0?source=rss-d565601f6bf8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
